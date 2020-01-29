@@ -35,6 +35,6 @@ As a minimum, the following physiological observations should be recorded at the
 * temperature.
 
 ## In specific clinical circumstances, additional monitoring should be considered; for example:
-## hourly urine output
-## biochemical analysis, such as lactate, blood glucose, base deficit, arterial pH
-## pain assessment.
+* hourly urine output
+* biochemical analysis, such as lactate, blood glucose, base deficit, arterial pH
+* pain assessment.
