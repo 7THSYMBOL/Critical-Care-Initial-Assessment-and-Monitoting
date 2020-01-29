@@ -14,4 +14,27 @@ Physiological track and trigger systems should be used to monitor all adult pati
   -The frequency of monitoring should increase if abnormal physiology is detected, as outlined in the recommendation on graded response strategy.
 
 
-## People have the right to be involved in discussions and make informed decisions about their care
+## Note: People have the right to be involved in discussions and make informed decisions about their care
+
+# Initial assessment and monitoring
+
+
+Adult patients in acute hospital settings, including patients in the emergency department for whom a clinical decision to admit has been made, should have:
+physiological observations recorded at the time of their admission or initial assessment
+a clear written monitoring plan that specifies which physiological observations should be recorded and how often. The plan should take account of the:
+patient's diagnosis
+presence of comorbidities
+agreed treatment plan.
+
+As a minimum, the following physiological observations should be recorded at the initial assessment and as part of routine monitoring:
+* heart rate
+* respiratory rate
+* systolic blood pressure
+* level of consciousness
+* oxygen saturation
+* temperature.
+
+## In specific clinical circumstances, additional monitoring should be considered; for example:
+## hourly urine output
+## biochemical analysis, such as lactate, blood glucose, base deficit, arterial pH
+## pain assessment.
